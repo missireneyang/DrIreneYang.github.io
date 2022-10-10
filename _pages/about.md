@@ -7,6 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Biomedical engineer passionate about improving healthcare through innovative medical device research.
-
-Irene joined the Edinburgh Orthopaedic Engineering Collaborative as a postdoctoral research fellow in engineering at the University of Edinburgh. She was recently awarded the 2023 BORS/BJR travelling fellowship and will be touring the US and Canada in early 2023.
+In 2022, Irene completed her DPhil at The University of Oxford and subsequently joined the Edinburgh Orthopaedic Engineering Collaborative as a Postdoctoral Research Fellow in Engineering. She was recently awarded the 2023 BORS/BJR travelling fellowship and will be touring the US and Canada in early 2023.
