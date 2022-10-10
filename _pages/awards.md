@@ -7,11 +7,11 @@ redirect_from:
   - "/awards"
 ---
 
-Postdoctoral
+### Postdoctoral
 ======
 * 2023 BORS/BJR Travelling Fellowship [Link](https://borsoc.org.uk/2022/05/12/bors-bjr-travelling-fellowship-2022/#:~:text=The%20fellowship%20will%20be%20a,of%20excellence%20in%20North%20America.)
 
-Postgraduate
+### Postgraduate
 ======
 * Oxford clarendon scholarship (2018) [Link](https://www.ox.ac.uk/clarendon/scholar-class-lists/scholars-2010-11-to-2019-20)
 * EIT health phd translational research fellowship (2019)
@@ -24,7 +24,7 @@ Postgraduate
 * Medical sciences division research slam, 1st prize (2020)
 * Oxford/santander travel abroad bursary (2020)
 
-Undergraduate
+### Undergraduate
 ======
 * Sydney medical school research scholarship (2014)
 * 1st place health science prosection competition (2013)
