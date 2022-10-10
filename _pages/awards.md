@@ -13,18 +13,18 @@ redirect_from:
 
 ### Postgraduate
 ======
-* Oxford clarendon scholarship (2018) [Link](https://www.ox.ac.uk/clarendon/scholar-class-lists/scholars-2010-11-to-2019-20)
-* EIT health PhD translational research fellowship (2019)
-* Oxford/santander travel abroad bursary (2022)
-* New college travel bursary (2022)
-* NDORMS travel abroad bursary (2022)
-* IMechE healthcare tech awards, 1st prize (2021)
-* Botnar student symposium, 1st prize (2021)
-* Doctoral research awards, 2nd prize engineering sci (2021)
-* Medical sciences division research slam, 1st prize (2020)
-* Oxford/santander travel abroad bursary (2020)
+* Oxford University Clarendon Scholarship (2018) [Link](https://www.ox.ac.uk/clarendon/scholar-class-lists/scholars-2010-11-to-2019-20)
+* EIT Health PhD Translational Research Fellowship (2019)
+* Oxford/santander travel Abroad Bursary (2022)
+* Oxford New college International Travel Bursary (2022)
+* Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences International Travel Bursary (2022)
+* Institute of Mechanical Engineers Healthcare Technology Awards, 1st prize (2021)
+* Oxford Botnar Student Symposium, 1st prize (2021)
+* UK Doctoral Research Awards, 2nd Prize Engineering Sciences (2021)
+* Oxford Medical Sciences Division Research Slam, 1st prize (2020)
+* Oxford/Santander Travel Abroad Bursary (2020)
 
 ### Undergraduate
 ======
-* Sydney medical school research scholarship (2014)
-* 1st place health science prosection competition (2013)
+* Sydney Medical School Research Scholarship (2014)
+* 1st Place Health Science Prosection Competition (2013)
