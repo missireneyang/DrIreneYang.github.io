@@ -22,4 +22,4 @@ Domed lateral UKA provides a good alternative to total knee arthroplasty (TKA) i
 
 [Download paper here](http://missireneyang.github.io/files/3_ODLTenYears.pdf)
 
-Recommended citation: Kennedy JA, Mohammad HR, Yang I, Mellon SJ, Dodd CAF, Pandit HG, Murray DW. Oxford domed lateral unicompartmental knee arthroplasty. Bone Joint J. 2020 Aug;102-B(8):1033-1040. doi: 10.1302/0301-620X.102B8.BJJ-2019-1330.R2. PMID: 32731833..
+Recommended citation: Kennedy JA, Mohammad HR, Yang I, Mellon SJ, Dodd CAF, Pandit HG, Murray DW. Oxford domed lateral unicompartmental knee arthroplasty. Bone Joint J. 2020 Aug;102-B(8):1033-1040. doi: 10.1302/0301-620X.102B8.BJJ-2019-1330.R2. PMID: 32731833.
