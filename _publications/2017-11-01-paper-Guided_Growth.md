@@ -19,6 +19,6 @@ technique to other sites and indications.
 » This review article highlights areas of future research and outlines the
 possible future of guided growth techniques.
 
-[Download paper here](https://journals.lww.com/jbjsreviews/Fulltext/2017/11000/Guided_Growth__Current_Perspectives_and_Future.3.aspx)
+[Download paper here](http://missireneyang.github.io/files/GuidedGrowth.pdf)
 
 Recommended citation: Yang, Irene; Gottliebsen, Martin; Martinkevich, Polina; Schindeler, Aaron; Little, David G.. Guided Growth: Current Perspectives and Future Challenges. JBJS Reviews: November 2017 - Volume 5 - Issue 11 - p e1 doi: 10.2106/JBJS.RVW.16.00115.
