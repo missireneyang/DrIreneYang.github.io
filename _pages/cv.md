@@ -39,7 +39,7 @@ Education
  
 Skills
 ======
-* innovative thinking skills
+* Innovative thinking skills
 * Mechanical test rig design & development
 * Mechanical compression/tension/torsion testing
 * 3D Computer Aided Design for orthopaedic implant development
@@ -72,7 +72,7 @@ Teaching
 Service and leadership
 ======
 * Reviewer
-  * Bone and Joint Research (BJR)Journal
+  * Bone and Joint Research (BJR) Journal
   * Frontiers in Bioengineering and Biotechnology Journal
 * Committees
   * International Combined Orthopaedic Societies (ICORS) local committee member
