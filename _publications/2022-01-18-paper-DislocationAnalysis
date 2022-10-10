@@ -1,0 +1,16 @@
+---
+title: "Application of a robotics path planning algorithm to assess the risk of mobile bearing dislocation in lateral unicompartmental knee replacement"
+collection: publications
+permalink: /publication/2022-01-18-paper-DislocationAnalysis
+doi: 10.1038/s41598-022-05938-w
+date: 18 January 2022
+venue: 'Nature Scientific Reports'
+paperurl: 'https://www.nature.com/articles/s41598-022-05938-w#citeas'
+citation: 'Yang, I., Gammell, J.D., Murray, D.W. et al. Application of a robotics path planning algorithm to assess the risk of mobile bearing dislocation in lateral unicompartmental knee replacement. Sci Rep 12, 2068 (2022). https://doi.org/10.1038/s41598-022-05938-w'
+---
+Abstract
+Due to ligament laxity, bearing dislocation occurs in 1–6% of Oxford Domed Lateral (ODL) replacements with most dislocations occurring medially. Dislocations were studied using a previously built mechanical rig, however testing using the rig was inefficient. The aim of this study was to develop a better tool that was more reliable and efficient. An established robotics software package, the Open Motion Planning Library, was modified to accept the ODL components. Using a robotics path planning algorithm, the mobile bearing was allowed to find a way out from between the femoral and tibial components i.e. to dislocate. Testing assessed a range of clinically relevant positions of the femoral component relative to the tibial component. Dislocations were labelled as medial, lateral, anterior or posterior depending on the dislocation direction. The Distraction to Dislocation (DD) measured the minimum vertical distraction of the femoral component from the tibial component for a dislocation to occur. Results were validated against the mechanical rig. Statistical analysis of medial dislocation showed excellent agreement with an intraclass correlation value of 0.993 (95% CI 0.982–0.998). All DDs from the dislocation analysis tool were within 1 mm of the mechanical rig DDs with results sharing a remarkably similar trend. The robotics dislocation analysis tool output DDs which were marginally higher than the manual mechanical rig: 0.50 mm anteriorly, 0.25 mm posteriorly and 0.50 mm laterally. Medially, the computational DD differed on average by 0.09 mm (stand deviation: 0.2026 mm). Our study describes the development and validation of a novel robotics dislocation analysis tool, which allows mobile bearing dislocation risk quantification. The tool may also be used to improve surgical implantation parameters and to assess new implant designs that aim to reduce the medial dislocation risk to an acceptable level.
+
+[Download paper here](http://missireneyang.github.io/files/6_DislocationAnalysis.pdf)
+
+Recommended citation: Yang, I., Gammell, J.D., Murray, D.W. et al. Application of a robotics path planning algorithm to assess the risk of mobile bearing dislocation in lateral unicompartmental knee replacement. Sci Rep 12, 2068 (2022). https://doi.org/10.1038/s41598-022-05938-w
