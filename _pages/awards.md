@@ -14,7 +14,7 @@ redirect_from:
 ### Postgraduate
 ======
 * Oxford clarendon scholarship (2018) [Link](https://www.ox.ac.uk/clarendon/scholar-class-lists/scholars-2010-11-to-2019-20)
-* EIT health phd translational research fellowship (2019)
+* EIT health PhD translational research fellowship (2019)
 * Oxford/santander travel abroad bursary (2022)
 * New college travel bursary (2022)
 * NDORMS travel abroad bursary (2022)
