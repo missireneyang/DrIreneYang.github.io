@@ -36,6 +36,12 @@ Education
 * B. Mechanical Engineering (Biomedical), Sydney University, 2015
 * B. Medical Science, Sydney University, 2015
 * DPhil Musculoskeletal Sciences – Oxford University, UK, 2022
+
+Awards
+======
+  <ul>{% for post in site.awards %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
  
 Skills
 ======
