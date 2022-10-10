@@ -9,32 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[Download Irene's resume here](http://academicpages.github.io/files/resume.pdf)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr 2022 - Current: Postdoctoral Research Fellow in Engineering
+  * Edinburgh University
+  * Project: UltraSurge - Surgery enabled by ultrasonics (EPSRC grant no. EP/R045291/1)
+  * Duties included: Robotics programming (ROS, Python), Mechanical rig design and development (Arduino)
+  * Supervisor: Professor Hamish Simpson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Mar 2018 - Sep 2018: Product developer
+  * IDE Group (Sydney)
+  * Project: ELION (HIV point of care diagnostic, Atomo Diagnostics)
+  * Duties included: project management, Verification and Validation testing, CAD, 3D printing
+  * Supervisor: Huw Wallis
+
+* Jan 2016 - June 2017: Research Assistant
+  * University of Sydney
+  * Project: EpiC Plate (tension band plate), wrist fusion plate ([PediFrag](https://www.orthopediatrics.com/products/pedifrag-wrist-fusion-plate-system/))
+  * Duties included: Paediatric orthopaedic implant design and development, CAD, 3D printing
+  * Supervisor: Professor David Little
+
+Education
+======
+* B. Mechanical Engineering (Biomedical), Sydney University, 2015
+* B. Medical Science, Sydney University, 2015
+* DPhil Musculoskeletal Sciences – Oxford University, UK, 2022
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* innovative thinking skills
+* Mechanical test rig design & development
+* Mechanical compression/tension/torsion testing
+* 3D Computer Aided Design for orthopaedic implant development
+* 3D printing
+* 3D image reconstruction from MRI/CT scans
+* Robotics programming skills
+  * OMPL
+  * ROS
+  * Python
+* Ultrasound based technology development
 
 Publications
 ======
@@ -56,4 +71,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * Bone and Joint Research (BJR)Journal
+  * Frontiers in Bioengineering and Biotechnology Journal
+* Committees
+  * International Combined Orthopaedic Societies (ICORS) local committee member
