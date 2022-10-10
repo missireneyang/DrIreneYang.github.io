@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Irene's resume here](http://academicpages.github.io/files/Resume.pdf)
+[Download a copy of Irene's resume here](http://missireneyang.github.io/files/Resume.pdf)
 
 Work experience
 ======
