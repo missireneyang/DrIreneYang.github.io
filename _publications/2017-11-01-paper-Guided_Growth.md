@@ -1,7 +1,7 @@
 ---
 title: "Guided Growth: Current Perspectives and Future Challenges"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2017-11-01-paper-Guided_Growth
 doi: 10.2106/JBJS.RVW.16.00115
 date: November 2017
 venue: 'JBJS Reviews: November 2017 - Volume 5 - Issue 11 - p e1'
