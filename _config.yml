@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Irene Yang / B. Engg, B. MedSci; DPhil (Oxon)"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "South African Chinese academic living in Scotland"
+description              : &description "personal description"
 url                      : https://missireneyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "missireneyang/missireneyang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Irene Yang - Postdoctoral Research Fellow in Engineering (Edinburgh University)"
   avatar           : "4309-420633_Irene_Yang-1.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "South African Chinese academic living in Scotland"
   location         : "Edinburgh, Scotland"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
