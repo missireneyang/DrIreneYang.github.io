@@ -1,7 +1,7 @@
 ---
-title: "MD student supervision"
+title: "Research student supervision"
 collection: teaching
-type: "Student supervision"
+type: "MD Student supervision"
 permalink: /teaching/supervision_1
 venue: "University of Edinburgh, Department of Orthopaedics & Trauma"
 date: 2022-08-01
