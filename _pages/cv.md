@@ -77,8 +77,14 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer
-  * Bone and Joint Research (BJR) Journal
-  * Frontiers in Bioengineering and Biotechnology Journal
-* Committees
-  * International Combined Orthopaedic Societies (ICORS) local committee member
+* Service
+  * New College Oxford
+    * Peer supporter (2020, 2021), Welfare Officer (2020), Equality & Diversity Officer (2019).
+    * St John’s Ambulance: First Aider (2018, 2019)
+    * Oxford Clarendon Council: Cultural Secretary (2018)
+* Leadership
+  * Reviewer
+    * Bone and Joint Research (BJR) Journal
+    * Frontiers in Bioengineering and Biotechnology Journal
+  * Committees
+    * International Combined Orthopaedic Societies (ICORS) local committee member
