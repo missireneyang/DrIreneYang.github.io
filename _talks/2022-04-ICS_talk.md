@@ -1,7 +1,7 @@
 ---
 title: "Panel discussion – Orthopaedic devices: Inequalities, challenges and opportunities"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/2022-04-ICS_talk
 venue: "International College of Surgeons United States Section Annual meeting (virtual)"
 date: 2022-04-01
