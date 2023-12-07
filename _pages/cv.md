@@ -13,8 +13,11 @@ redirect_from:
 
 Work experience
 ======
-* Apr 2022 - Current: Postdoctoral Research Fellow in Engineering
-  * Edinburgh University
+* Sept 2023 - Current: Innovation Fellowship
+  * Edinburgh Innovation & University of Edinburgh
+  * Project: Developing a novel, simple, affordable and clinically relevant fracture monitoring tool using engineering & machine learning techniques
+* Apr 2022 - Sept 2023: Postdoctoral Research Fellow in Engineering
+  * University of Edinburgh
   * Project: UltraSurge - Surgery enabled by ultrasonics (EPSRC grant no. EP/R045291/1)
   * Duties included: Robotics programming (ROS, Python), Mechanical rig design and development (Arduino)
   * Supervisor: Professor Hamish Simpson
