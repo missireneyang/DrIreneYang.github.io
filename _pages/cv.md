@@ -16,6 +16,7 @@ Work experience
 * Sept 2023 - Current: Innovation Fellowship
   * Edinburgh Innovation & University of Edinburgh
   * Project: Developing a novel, simple, affordable and clinically relevant fracture monitoring tool using engineering & machine learning techniques
+
 * Apr 2022 - Sept 2023: Postdoctoral Research Fellow in Engineering
   * University of Edinburgh
   * Project: UltraSurge - Surgery enabled by ultrasonics (EPSRC grant no. EP/R045291/1)
@@ -40,24 +41,18 @@ Education
 * B. Medical Science, Sydney University, 2015
 * DPhil Musculoskeletal Sciences – Oxford University, UK, 2022
 
-Awards
-======
-  <ul>{% for post in site.awards %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 
 Skills
 ======
-* Innovative thinking skills
+* Novel implant design and development
 * Mechanical test rig design & development
-* Mechanical compression/tension/torsion testing
-* 3D Computer Aided Design for orthopaedic implant development
-* 3D printing
+* Biomechanics testing
+* 3D Computer Aided Design (CAD)
+* 3D printing (FDM, SLA, SLS)
 * 3D image reconstruction from MRI/CT scans
-* Robotics programming skills
-  * OMPL
-  * ROS
+* Programming skills
   * Python
+  * ROS
+  * Matlab
 * Ultrasound based technology development
 
 Publications
@@ -80,14 +75,14 @@ Teaching
   
 Service and leadership
 ======
+* Leadership
+  * Journal contributions (2022 - Current)
+    * Associate editor and reviewer - Bone and Joint Research (BJR) Journal
+    * Reviewer - Frontiers in Bioengineering and Biotechnology Journal
+* Committees (2022)
+  * International Combined Orthopaedic Research Societies (ICORS) committee member
 * Service
   * New College Oxford
     * Peer supporter (2020, 2021), Welfare Officer (2020), Equality & Diversity Officer (2019).
     * St John’s Ambulance: First Aider (2018, 2019)
     * Oxford Clarendon Council: Cultural Secretary (2018)
-* Leadership
-  * Reviewer
-    * Bone and Joint Research (BJR) Journal
-    * Frontiers in Bioengineering and Biotechnology Journal
-  * Committees
-    * International Combined Orthopaedic Societies (ICORS) local committee member
