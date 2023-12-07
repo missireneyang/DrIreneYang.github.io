@@ -43,7 +43,7 @@ Education
 Awards
 ======
   <ul>{% for post in site.awards %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv.md %}
   {% endfor %}</ul>
  
 Skills
