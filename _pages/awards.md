@@ -6,8 +6,6 @@ author_profile: true
 redirect_from: 
   - "/awards"
 ---
-Awards
-======
 * Academic Research Fellowship (Innovation Feelowship), Edinburgh Innovations & University of Edinburgh (2023)
 * Big Ideas Accelerator grant, University of Edinburgh (2023)
 * 2023 BORS/BJR Travelling Fellowship [Link](https://borsoc.org.uk/2022/05/12/bors-bjr-travelling-fellowship-2022/#:~:text=The%20fellowship%20will%20be%20a,of%20excellence%20in%20North%20America.)
